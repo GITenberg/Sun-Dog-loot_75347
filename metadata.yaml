@@ -1,0 +1,37 @@
+_repo: Sun-Dog-loot_75347
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tuttle, W. C. (Wilbur C.)
+    aliases:
+    - Tuttle, Wilbur C.
+    - Tuttle, Wilbur Coleman
+    birthdate: 1883
+    deathdate: 1969
+    gutenberg_agent_id: '52836'
+    url: http://www.gutenberg.org/2009/agents/52836
+    wikipedia: https://en.wikipedia.org/wiki/W._C._Tuttle
+description: ''
+gutenberg_issued: '2025-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75347'
+language: en
+pgterms:marc904: https://archive.org/details/adventure-v-048-n-03-1924-08-30
+pgterms:marc905: 20250208181516tuttle
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York, NY :$bThe Ridgway Company, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Produced from the August 30, 1924 issue of Adventure magazine.
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Sheriffs -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Sun Dog loot
+url: http://www.gutenberg.org/ebooks/75347
